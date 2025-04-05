@@ -35,30 +35,12 @@ Configure kubectl for Amazon EKS: <br/>
 <img src="https://github.com/user-attachments/assets/997bfdb2-53ff-4b5c-968e-24ca381a3be5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Deploy a Sample Linux Application:  <br/>
 <img src="https://github.com/user-attachments/assets/7008cb0d-d2a4-4a1b-a1fa-43b2eddbc32b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
  __
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
