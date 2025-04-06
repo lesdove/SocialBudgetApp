@@ -13,8 +13,10 @@ This idea was sparked by a conversation with my fincial advisor regarding transp
 
 <h2>Languages and Utilities Used</h2>
 
+- <b>HTML</b>
 - <b>AWS EKS</b> 
 - <b>Kubectl</b>
+- <b>Beanstalk</b>
 
 <h2>Environments Used </h2>
 
@@ -43,4 +45,22 @@ Deploy a Sample Linux Application:  <br/>
 
  __
 
-Next Step: Construct the app based on client preferences.
+<h2>App Construction:</h2>
+
+I constructed an API Gateway, HTML Index and updated the Beanstalk:<br/>
+<img src="https://github.com/user-attachments/assets/4129b7bd-b7ac-45f5-9780-1e995d486686"/>
+<br />
+<br />
+
+<img src="https://github.com/user-attachments/assets/325d031d-6468-4690-ab83-8c3e4c43485d"/>
+<br />
+<br />
+
+<img src="https://github.com/user-attachments/assets/1dd49fbb-7772-489b-8022-d2dbb028e688"/>
+<br />
+<br />
+
+Final Step: Construct the app via Beanstalk based on client preferences.  <br/>
+<img src="https://github.com/user-attachments/assets/f715d89d-20b5-42f7-a21c-f750ea381b69" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
