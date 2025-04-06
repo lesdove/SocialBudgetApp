@@ -18,7 +18,7 @@ This idea was sparked by a conversation with my fincial advisor regarding transp
 
 <h2>Environments Used </h2>
 
-- <b>Mac Terminal</b> (21H2)
+- <b>Mac Terminal</b>
 
 <h2>Program walk-through:</h2>
 
@@ -43,4 +43,4 @@ Deploy a Sample Linux Application:  <br/>
 
  __
 
-
+Next Step: Construct the app based on client preferences.
