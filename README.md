@@ -7,7 +7,7 @@
 
 
 <h2>Description</h2>
-This idea was sparked by a conversation with my fincial advisor regarding transparency and community support for financial well-being. The finance world does not have a widely accepted social media platform and individuals could use creative ways to improve the financial standing. The targeted audience is younger generations that use social media already, admire gamification and enjoy streak and yearly-breakdown culture.
+With no shortage of financial applications, individuals could use a centralized, creative approach to improve their financial standing. The targeted audience is younger generations that use social media already, admire gamification and enjoy streak and yearly-breakdown visualizations.
 <br />
 
 
